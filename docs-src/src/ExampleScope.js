@@ -16,6 +16,7 @@ import CloseButton from 'awesome-possum/lib/CloseButton'
 import Col from 'awesome-possum/lib/Col'
 import Currency from 'awesome-possum/lib/Currency'
 import DatePicker from 'awesome-possum/lib/DatePicker'
+import DateTimePicker from 'awesome-possum/lib/DateTimePicker'
 import Drawer from 'awesome-possum/lib/Drawer'
 import Emptyable from 'awesome-possum/lib/Emptyable'
 import ExpandingCol from 'awesome-possum/lib/ExpandingCol'
@@ -76,6 +77,7 @@ export default {
   Col: Col,
   Currency: Currency,
   DatePicker: DatePicker,
+  DateTimePicker: DateTimePicker,
   Drawer: Drawer,
   Emptyable: Emptyable,
   ExpandingCol: ExpandingCol,

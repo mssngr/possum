@@ -35,13 +35,14 @@ export default function Navigation() {
           <Menu.Item text><h5>Forms</h5></Menu.Item>
           <Menu.Item><Link to="/components/Button/">Buttons</Link></Menu.Item>
           <Menu.Item><Link to="/components/Checkbox/">Checkboxes</Link></Menu.Item>
-          <Menu.Item><Link to="/components/Datepicker/">Date Picker</Link></Menu.Item>
+          <Menu.Item><Link to="/components/DatePicker/">Date Picker</Link></Menu.Item>
           <Menu.Item><Link to="/components/Input/">Inputs</Link></Menu.Item>
           <Menu.Item><Link to="/components/InputGroup/">Input Group</Link></Menu.Item>
           <Menu.Item><Link to="/components/Radio/">Radio Buttons</Link></Menu.Item>
           <Menu.Item><Link to="/components/Select/">Selects</Link></Menu.Item>
           <Menu.Item><Link to="/components/Textarea/">Textareas</Link></Menu.Item>
           <Menu.Item><Link to="/components/TimePicker/">Time Picker</Link></Menu.Item>
+          <Menu.Item><Link to="/components/DateTimePicker/">Date/Time Picker</Link></Menu.Item>
         </Menu>
         <Menu vertical>
           <Menu.Item text><h5>Lists</h5></Menu.Item>
